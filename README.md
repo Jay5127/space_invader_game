@@ -1,4 +1,9 @@
 # space_invader_game
+![space_game](https://github.com/Jay5127/space_invader_game/blob/main/Screenshot%202024-09-12%20222126.png)
+
+
+
+
 Recently, I developed a space-themed game using Pygame and Python, where players navigate through an interstellar adventure filled with challenges and excitement.
 Project Highlights:
 Game Engine: Utilized Pygame for robust 2D game development.
